@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**dmihajlosq/dmihajlosq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Computer Science student from Skopje, Macedonia.
 
-Here are some ideas to get you started:
+Currently learning and building projects with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- Blockcahin
+- C++
+- Git & GitHub
+
+---
+
+## Current goals
+
+- Build strong programming fundamentals
+- Create real-world projects
+- Learn React
+- Learn blockchain development
+- Improve problem solving skills
+
+---
+
+## Projects
+Projects will be added here as I build them.
+
+---
+
+## Currently working on
+Learning web development and improving my coding skills every day.
+
+---
+
+## Contact
+GitHub: @dmihajlosq
+Mail: davidmihajloski@yahoo.com

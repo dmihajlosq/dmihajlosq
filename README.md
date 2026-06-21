@@ -9,8 +9,9 @@ Currently learning and building projects with:
 - CSS
 - Blockcahin
 - C++
+- Python
 - Git & GitHub
-
+- Marp
 ---
 
 ## Current goals

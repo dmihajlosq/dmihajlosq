@@ -5,11 +5,12 @@ Computer Science student from Skopje, Macedonia.
 
 Currently learning and building projects with:
 
-- HTML
-- CSS
+- Java
 - Blockcahin
 - C++
 - Python
+- HTML
+- CSS
 - Git & GitHub
 - Marp
 ---
